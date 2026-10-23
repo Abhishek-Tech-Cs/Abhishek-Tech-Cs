@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate graduating in 2027 with hands-on experience building full-stack and Generative AI applications.<br>Solved 700+ problems on LeetCode with a current contest rating of 1750+. Experienced in C, C++, JavaScript, React, Node.js,<br>Express.js, LangChain, LangGraph and Retrieval-Augmented Generation (RAG). Built AI-powered travel planning, research<br>workspace and banking transaction applications. Seeking Software Engineer, SDE or Full-Stack Developer opportunities.
+Computer Science undergraduate graduating in 2027 with hands-on experience building full-stack and Generative AI applications.<br>Solved 700+ problems on LeetCode with a current contest rating of 1800+. Experienced in C, C++, JavaScript, React, Node.js,<br>Express.js, LangChain, LangGraph and Retrieval-Augmented Generation (RAG). Built AI-powered travel planning, research<br>workspace and banking transaction applications. Seeking Software Engineer, SDE or Full-Stack Developer opportunities.
 
 
 ## 🌐 Socials:
